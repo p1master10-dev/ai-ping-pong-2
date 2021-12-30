@@ -1,0 +1,46 @@
+#status {
+      display: inline-block;
+}
+
+body {
+     background-size: cover;
+     font-family: OverPass Mono Light;
+     font-weight: 500;
+}
+
+.header {
+     z-index: 99;
+     top: 0;
+     width: 100%;
+     padding: 10px 0px;
+     text-align: center;
+}
+
+#instructions-btn {
+     margin: 0;
+     float: right;
+     margin-right: 20px;
+     margin-left: 0;
+}
+
+#header-text {
+     display: inline;
+}
+
+#footer {
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     line-height: 2;
+}
+
+.modal-dialog 
+{
+      width: 70%;
+}
+
+.modal-body
+{
+      text-align: left;
+      font-size: 20px;
+}
